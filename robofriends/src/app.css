@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: 'Cartoon 2 US';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Cartoon 2 US'), url('Cartoon 2 US.ttf') format('ttf')
+}
+
+@font-face {
+  font-family: 'CARTOON FREE';
+  font-style: normal;
+  font-weight: normal;
+  src: local('CARTOON FREE'), url('CARTOON FREE.otf') format('otf')
+}
+
+h1 {
+  font-family: 'Cartoon 2 US';
+}
